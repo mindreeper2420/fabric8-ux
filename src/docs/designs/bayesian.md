@@ -11,5 +11,7 @@ relative_path: ../../../
 | [Bayesian Report – Overview](https://redhat.invisionapp.com/share/ZRAM1RRPJ)                        | Wireframe             | Jessica       | Ready for Dev     | 02/27/2017        | [UX GitHub Issue 200](https://github.com/fabric8-ui/fabric8-ux/issues/200)
 | [Bayesian Report – Create work item](https://redhat.invisionapp.com/share/27AM2N4N9)                | Wireframe             | Jessica       | Ready for Dev     | 02/27/2017        | [UX GitHub Issue 177](https://github.com/fabric8-ui/fabric8-ux/issues/177)
 | [Bayesian Report – Visuals](https://redhat.invisionapp.com/share/7VBBOXXZS)                         | Visual                | Jessica       | Ready for Dev     | 04//2017          | [UX GitHub Issue 387](https://github.com/fabric8-ui/fabric8-ux/issues/387)
+| [Stack Report – Visuals](https://redhat.invisionapp.com/share/F3E3TGCSA)                         | Visual                | 
+  Ashish | Ready for Dev     | 10/25/2017          | UX GitHub Issue: None
 
 ###### All markdown written using this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
